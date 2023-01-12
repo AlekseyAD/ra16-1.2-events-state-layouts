@@ -1,8 +1,8 @@
 {
-  "name": "ra16-2.1-events-state-layouts",
+  "name": "ra16-1.2-events-state-layouts",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://alekseyad.github.io/ra16-2.1-events-state-layouts/",
+  "homepage": "https://alekseyad.github.io/ra16-1.2-events-state-layouts/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
